@@ -1,0 +1,8 @@
+.container{
+    background-color:plum;
+}
+img{
+    max-width: 320px;
+    max-height: 213px;
+    object-fit: contain;
+}
